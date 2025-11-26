@@ -1,0 +1,46 @@
+{
+  "narrative": [
+    {
+      "section": "Before",
+      "fact": "Ankur Nagpal was teaching marketing courses on Udemy and wanted direct access to students and sales instead of relying on third-party platforms.",
+      "source": "https://www.linkedin.com/pulse/fedora-now-teachable-how-side-project-grew-up-become-ankur-nagpal"
+    },
+    {
+      "section": "Pain",
+      "fact": "Existing course platforms limited ownership of content, branding, and customer relationships, pushing the founder to seek a tool creators could fully control.",
+      "source": "https://teachable.com/about"
+    },
+    {
+      "section": "Trigger",
+      "fact": "In fall 2013 he locked himself in a room for three days to build a rudimentary site to sell his own mobile marketing course directly.",
+      "source": "https://www.linkedin.com/pulse/fedora-now-teachable-how-side-project-grew-up-become-ankur-nagpal"
+    },
+    {
+      "section": "MVP",
+      "fact": "The first version (Fedora) launched with the founder’s own course and quickly added the first few paying customers, including partner Conrad Wadowski, before the team rebuilt it together.",
+      "source": "https://www.linkedin.com/pulse/fedora-now-teachable-how-side-project-grew-up-become-ankur-nagpal"
+    },
+    {
+      "section": "Validation",
+      "fact": "Teachable reports $10B+ earned by creators, 30M+ products sold, and 21M+ consumers across Teachable and Hotmart with 200K+ creators using the platforms.",
+      "source": "https://teachable.com/about"
+    },
+    {
+      "section": "Differentiation",
+      "fact": "Positions itself as a creator-owned platform that bundles courses, coaching, downloads, memberships, community, payments, analytics, and AI tools under one customizable brand experience.",
+      "source": "https://teachable.com/about"
+    },
+    {
+      "section": "Progress",
+      "fact": "Founded in 2014 in New York; public profile lists 51-200 employees and over 150,000 creators relying on the platform.",
+      "source": "https://www.linkedin.com/company/teachable"
+    }
+  ],
+  "story_judgement": {
+    "story_core": true,
+    "proof_strength": true,
+    "social_relevance": true,
+    "decision": "publish",
+    "reason": "Founder-built MVP story is documented, current scale and revenue to creators are reported, and the platform addresses a clear creator ownership pain point."
+  }
+}

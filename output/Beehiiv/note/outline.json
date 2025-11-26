@@ -1,0 +1,91 @@
+{
+  "outline": [
+    {
+      "section": "Free Hook",
+      "points": [
+        "Built by ex-Morning Brew team; launched Oct 2021 in NYC.",
+        "Now ~20k newsletters send 1B emails per month; customers include Boston Globe Media and Brex.",
+        "Email remains a 5B-user channel, making owned newsletters a sticky distribution play."
+      ]
+    },
+    {
+      "section": "Before & Pain",
+      "points": [
+        "Founders ran Morning Brew’s growth stack and saw email as the most lucrative owned channel.",
+        "Existing tools lacked built-in growth/monetization features they used internally (referrals, ads)."
+      ]
+    },
+    {
+      "section": "Trigger & MVP",
+      "points": [
+        "Post-Morning Brew they shipped beehiiv in Oct 2021 with referral programs and paywalls packaged as a product.",
+        "Started with free/$42/$84 tiers to attract early creators needing growth tooling."
+      ]
+    },
+    {
+      "section": "Validation",
+      "points": [
+        "Jun 2023: 7,500 active newsletters, 35M readers, 350M monthly impressions; profitable monthly pre-Series A.",
+        "Apr 2024: scaled to ~20k active newsletters, 1B monthly emails, $1.2M customer revenue per month, Series B $33M.",
+        "Logos like Boston Globe Media, Brex, and Arnold Schwarzenegger’s newsletter show mixed creator/enterprise fit."
+      ]
+    },
+    {
+      "section": "Differentiation",
+      "points": [
+        "Unlimited email sends across tiers with up to 100k subscribers on Scale/Max.",
+        "Built-in referral program, Boosts, and programmatic ad network; migration API to switch from other ESPs."
+      ]
+    },
+    {
+      "section": "Free Summary",
+      "points": [
+        "Ex-Morning Brew team productized their growth stack and scaled to 1B emails/month in three years.",
+        "Paid part will show how to pick a plan, set up growth tools, and when beehiiv beats Substack/ConvertKit/Mailchimp."
+      ]
+    },
+    {
+      "section": "How to Use",
+      "points": [
+        "Choose Launch ($0, 2.5k subs), Scale ($43/mo, 100k subs), or Max ($96/mo, 100k subs) based on list size and seats.",
+        "Enable referral program/Boosts from day 1; keep unlimited sends to test cadence without cost spikes.",
+        "Use web builder + custom domains to host archives and capture subscribers beyond email embeds."
+      ]
+    },
+    {
+      "section": "Success Patterns",
+      "points": [
+        "Media-style newsletters (Boston Globe Mediaなどの顧客) can pair content with beehiiv’s ad network for revenue.",
+        "Referral programsとRecommendationsが標準搭載で、Morning Brew式の成長ループを再現できる設計。",
+        "API・IntegrationsとUnlimited sendsにより、Brexのような企業顧客も既存CRMと併用できる余地がある。"
+      ]
+    },
+    {
+      "section": "Competition",
+      "points": [
+        "Substack: paidサブスク機能が中心。beehiivは広告ネットワークと成長機能を強調。",
+        "ConvertKit: オートメーションに強い。beehiivはリファラル/Boostsと無制限送信で差別化。",
+        "Mailchimp: 総合マーケツール。beehiivはニュースレター特化でシンプルな価格体系。"
+      ]
+    },
+    {
+      "section": "ROI & Decision Framework",
+      "points": [
+        "Model payback using plan prices vs. ad/boost revenue; $43 Scale breaks even with minimal CPM/ads or low-volume sponsorships.",
+        "Subscriber limits (2.5k vs 100k) and seat counts (1 vs 3 vs unlimited) dictate when to upgrade.",
+        "Migration API lowers switching cost; factor in saved ESP overage fees from unlimited sends."
+      ]
+    },
+    {
+      "section": "Paid Summary",
+      "points": [
+        "Checklist: pick plan by list size, enable referrals/ads, set cadence using unlimited sends, compare fee models to rivals.",
+        "When beehiiv wins: growth loops and monetization baked in; when rivals win: deeper automation (ConvertKit/Mailchimp) or built-in paid-sub stack (Substack)."
+      ]
+    }
+  ],
+  "length_target": {
+    "free": 3000,
+    "paid": 3000
+  }
+}

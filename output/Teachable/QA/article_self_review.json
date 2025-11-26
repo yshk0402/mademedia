@@ -1,0 +1,37 @@
+{
+  "score_total": "40/50",
+  "score_detail": {
+    "accuracy": 8,
+    "clarity": 8,
+    "logic": 8,
+    "utility": 8,
+    "readability": 8
+  },
+  "checklist": [
+    {
+      "item": "誇張/広告表現ゼロ",
+      "pass": true
+    },
+    {
+      "item": "不明情報を隠していない",
+      "pass": true
+    },
+    {
+      "item": "分析と事実の区別が明確",
+      "pass": true
+    },
+    {
+      "item": "記事の「重心」が一貫",
+      "pass": true
+    },
+    {
+      "item": "有料部に行動可能な要素あり",
+      "pass": true
+    }
+  ],
+  "improvement": [
+    "Hotmartとの合算数字である点をもう一度明示し、Teachable単体の指標が取れれば差し替えること。",
+    "導入直後の具体的な設定スクリーンや操作手順を1〜2ステップ入れ、可用性をさらに高めること。",
+    "競合比較で価格以外の制約（商品数上限やサポート範囲）を表形式で補足できると意思決定がしやすい。"
+  ]
+}

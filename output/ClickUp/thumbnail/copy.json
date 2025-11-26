@@ -1,0 +1,9 @@
+{
+  "thumbnail_copy": [
+    {"pattern": "number", "text": "200万チームが選んだ1画面"},
+    {"pattern": "failure", "text": "ツール乱立で消えた1日を取り返す"},
+    {"pattern": "reverse", "text": "増やさず減らすプロジェクト管理"},
+    {"pattern": "empathy", "text": "タスクどこ？資料どこ？を一掃"},
+    {"pattern": "future", "text": "自動化100件から始める次の標準"}
+  ]
+}

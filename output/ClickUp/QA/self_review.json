@@ -1,0 +1,14 @@
+{
+  "service": "ClickUp",
+  "metrics": {
+    "fact_check": "○",
+    "specificity": "○",
+    "structure": "○",
+    "conversion": "○",
+    "educational": "○",
+    "novelty": "△"
+  },
+  "improvement": "創業者の一次インタビューや利用事例の数値（導入後の時間削減など）を追加し、エビデンスの幅を広げる",
+  "user_feedback": "",
+  "revision_history": []
+}

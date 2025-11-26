@@ -1,0 +1,14 @@
+{
+  "service": "Kit",
+  "metrics": {
+    "fact_check": "○",
+    "specificity": "○",
+    "structure": "○",
+    "conversion": "○",
+    "educational": "○",
+    "novelty": "△"
+  },
+  "improvement": "第三者レビューやユーザー事例の定量（導入後の成長率など）を追加し、無料枠→有料転換の実測データを補完したい",
+  "user_feedback": "",
+  "revision_history": []
+}

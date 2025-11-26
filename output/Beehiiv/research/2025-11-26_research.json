@@ -1,0 +1,131 @@
+{
+  "service": "Beehiiv",
+  "company": "beehiiv",
+  "founders": [
+    {
+      "name": "Tyler Denk",
+      "bio_summary": "Former growth/product lead at Morning Brew; co-founded beehiiv in Oct 2021 to build a newsletter stack focused on owned audience growth.",
+      "source": "https://techcrunch.com/2023/06/21/beehiiv-a-newsletter-platform-gets-12-5m-in-its-inbox/"
+    },
+    {
+      "name": "Benjamin Hargett",
+      "bio_summary": "Co-founded beehiiv after working with Denk on Morning Brew’s newsletter operations.",
+      "source": "https://techcrunch.com/2023/06/21/beehiiv-a-newsletter-platform-gets-12-5m-in-its-inbox/"
+    },
+    {
+      "name": "Jake Hurd",
+      "bio_summary": "Co-founder who also came from Morning Brew’s newsletter team, building the initial platform with Denk and Hargett.",
+      "source": "https://techcrunch.com/2023/06/21/beehiiv-a-newsletter-platform-gets-12-5m-in-its-inbox/"
+    }
+  ],
+  "founded_year": "2021",
+  "hq": "New York, New York, U.S.",
+  "category": "Newsletter platform and email marketing",
+  "product_summary": "Platform to create, publish, and monetize newsletters with referral programs, boosts, ad network, web builder, and analytics built for growth.",
+  "pricing": "Launch $0 (up to 2,500 subscribers); Scale $43/mo or $517 billed annually (up to 100,000 subscribers); Max $96/mo or $1,151 billed annually (up to 100,000 subscribers); unlimited email sends on all tiers.",
+  "core_problem": {
+    "statement": "Founders who built Morning Brew’s newsletter stack saw that existing tools lacked growth and monetization features for owned audiences; they built beehiiv because email remained the most lucrative and controllable channel versus social platforms.",
+    "source": "https://techcrunch.com/2023/06/21/beehiiv-a-newsletter-platform-gets-12-5m-in-its-inbox/"
+  },
+  "kpi": [
+    {
+      "metric": "Active newsletters",
+      "value": "~20,000",
+      "year": "2024",
+      "source": "https://techcrunch.com/2024/04/30/beehiiv-newsletters/"
+    },
+    {
+      "metric": "Emails sent per month",
+      "value": "1 billion",
+      "year": "2024",
+      "source": "https://techcrunch.com/2024/04/30/beehiiv-newsletters/"
+    },
+    {
+      "metric": "Active newsletters (Series A stage)",
+      "value": "7,500",
+      "year": "2023",
+      "source": "https://techcrunch.com/2023/06/21/beehiiv-a-newsletter-platform-gets-12-5m-in-its-inbox/"
+    },
+    {
+      "metric": "Monthly impressions",
+      "value": "350 million",
+      "year": "2023",
+      "source": "https://techcrunch.com/2023/06/21/beehiiv-a-newsletter-platform-gets-12-5m-in-its-inbox/"
+    },
+    {
+      "metric": "Unique readers",
+      "value": "35 million",
+      "year": "2023",
+      "source": "https://techcrunch.com/2023/06/21/beehiiv-a-newsletter-platform-gets-12-5m-in-its-inbox/"
+    },
+    {
+      "metric": "Customer revenue on platform",
+      "value": "$1.2M collective monthly revenue",
+      "year": "2024",
+      "source": "https://techcrunch.com/2024/04/30/beehiiv-newsletters/"
+    },
+    {
+      "metric": "Revenue run rate pre-Series A",
+      "value": "$4M run rate / $3M ARR; profitable on monthly basis April 2023",
+      "year": "2023",
+      "source": "https://techcrunch.com/2023/06/21/beehiiv-a-newsletter-platform-gets-12-5m-in-its-inbox/"
+    }
+  ],
+  "competition": [
+    {
+      "name": "Substack",
+      "url": "https://substack.com",
+      "reason_compared": "Direct newsletter publishing and monetization platform competing for writers and paid subscriptions."
+    },
+    {
+      "name": "ConvertKit",
+      "url": "https://convertkit.com",
+      "reason_compared": "Email marketing tool used by creators for newsletters and automations."
+    },
+    {
+      "name": "Mailchimp",
+      "url": "https://mailchimp.com",
+      "reason_compared": "Established email service provider for marketing newsletters and automation."
+    }
+  ],
+  "user_validation": [
+    {
+      "type": "case_study",
+      "detail": "Boston Globe Media and Brex use beehiiv; individual creators include Arnold Schwarzenegger’s newsletter.",
+      "source": "https://techcrunch.com/2024/04/30/beehiiv-newsletters/"
+    }
+  ],
+  "market_background": {
+    "insight": "Global email users are approaching 5 billion, indicating newsletters remain a sticky owned channel for distribution and monetization.",
+    "source": "https://www.statista.com/statistics/255080/number-of-e-mail-users-worldwide/"
+  },
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2024/04/30/beehiiv-newsletters/",
+      "credibility": "high",
+      "note": "Series B coverage with 20k active newsletters, 1B monthly emails, customer revenue, and customer examples."
+    },
+    {
+      "url": "https://techcrunch.com/2023/06/21/beehiiv-a-newsletter-platform-gets-12-5m-in-its-inbox/",
+      "credibility": "high",
+      "note": "Series A article detailing founding in Oct 2021, founders, 7,500 active newsletters, 35M readers, 350M impressions, revenue run rate, and Morning Brew background."
+    },
+    {
+      "url": "https://www.beehiiv.com/pricing",
+      "credibility": "medium",
+      "note": "Official pricing page showing Launch $0 (2,500 subs), Scale $43/mo ($517 annual), Max $96/mo ($1,151 annual) with subscriber caps."
+    },
+    {
+      "url": "https://www.statista.com/statistics/255080/number-of-e-mail-users-worldwide/",
+      "credibility": "medium",
+      "note": "Statista projection that global email users are nearing 5 billion, used for market context."
+    }
+  ],
+  "feasibility": {
+    "story_core": true,
+    "proof_strength": true,
+    "social_relevance": true,
+    "decision": "publish",
+    "reason": "Founder story is documented (ex-Morning Brew) with clear pain around owned growth, strong usage metrics (20k newsletters, 1B monthly emails), and a large addressable email market nearing 5B users."
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "service": "Thinkific",
+  "company": "Thinkific Labs Inc.",
+  "founders": [
+    {
+      "name": "Greg Smith",
+      "bio_summary": "Co-founder and CEO who began by building an LSAT course and custom online delivery that evolved into Thinkific.",
+      "source": "https://www.thinkific.com/about"
+    },
+    {
+      "name": "Matt Smith",
+      "bio_summary": "Co-founder who worked with Greg to build the first online course platform to reach more students than live teaching allowed.",
+      "source": "https://www.thinkific.com/about"
+    },
+    {
+      "name": "Miranda Lievers",
+      "bio_summary": "Co-founder who joined Greg and Matt to turn the initial LSAT course infrastructure into a scalable platform for course creators.",
+      "source": "https://www.thinkific.com/about"
+    },
+    {
+      "name": "Matt Payne",
+      "bio_summary": "Co-founder involved in early product development as Thinkific was formalized for broader creator use.",
+      "source": "https://www.thinkific.com/about"
+    }
+  ],
+  "founded_year": "2012",
+  "hq": "Vancouver, British Columbia, Canada",
+  "category": "Learning commerce platform for courses, communities, memberships, and digital downloads",
+  "product_summary": "Platform to build, market, and sell digital learning products—courses, communities, memberships, coaching, downloads—with payments and analytics under the creator’s own brand.",
+  "pricing": "Basic $49/mo or $36/mo (billed annually), Start $99/mo or $74/mo annually, Grow $199/mo or $149/mo annually; all plans start with a 30-day free trial.",
+  "core_problem": {
+    "statement": "Creators needed a way to reach more students and control branding and revenue instead of relying on marketplaces or in-person classes.",
+    "source": "https://www.thinkific.com/about"
+  },
+  "kpi": [
+    {
+      "metric": "Active customers",
+      "value": "50,000+ active customers",
+      "year": "Q3 2024",
+      "source": "https://www.newswire.ca/news-releases/thinkific-announces-third-quarter-2024-financial-results-806836046.html"
+    },
+    {
+      "metric": "Learners reached",
+      "value": "200M+ learners (214M cited on pricing page)",
+      "year": "2025",
+      "source": "https://www.thinkific.com/pricing"
+    },
+    {
+      "metric": "Creator earnings",
+      "value": "$3.7B earned through the platform",
+      "year": "2025",
+      "source": "https://www.thinkific.com/about"
+    },
+    {
+      "metric": "Quarterly revenue",
+      "value": "$17.2M revenue in Q3 2024 (+15% YoY)",
+      "year": "Q3 2024",
+      "source": "https://www.newswire.ca/news-releases/thinkific-announces-third-quarter-2024-financial-results-806836046.html"
+    },
+    {
+      "metric": "Annual Recurring Revenue (ARR)",
+      "value": "$58.0M ARR",
+      "year": "Q3 2024",
+      "source": "https://www.newswire.ca/news-releases/thinkific-announces-third-quarter-2024-financial-results-806836046.html"
+    }
+  ],
+  "competition": [
+    {
+      "name": "Teachable",
+      "url": "https://teachable.com",
+      "reason_compared": "Direct competitor for creator-led online courses and digital products."
+    },
+    {
+      "name": "Kajabi",
+      "url": "https://kajabi.com",
+      "reason_compared": "All-in-one platform for membership, coaching, and marketing automation targeting similar creators."
+    },
+    {
+      "name": "Podia",
+      "url": "https://www.podia.com",
+      "reason_compared": "Lightweight platform for courses, downloads, and communities appealing to the same segment."
+    }
+  ],
+  "user_validation": [
+    {
+      "type": "customer_count",
+      "detail": "50,000+ active customers and tens of millions of students per Q3 2024 press release.",
+      "source": "https://www.newswire.ca/news-releases/thinkific-announces-third-quarter-2024-financial-results-806836046.html"
+    }
+  ],
+  "market_background": {
+    "insight": "Creator-led education platforms are scaling globally; Thinkific reports $3.7B earned on-platform and 200M+ learners reached, showing substantial demand for owned learning commerce.",
+    "source": "https://www.thinkific.com/about"
+  },
+  "sources": [
+    {
+      "url": "https://www.thinkific.com/about",
+      "credibility": "medium",
+      "note": "Official about page with founder story and platform impact (35k customers, $3.7B earned, 200M+ learners)."
+    },
+    {
+      "url": "https://www.thinkific.com/pricing",
+      "credibility": "medium",
+      "note": "Official pricing showing Basic/Start/Grow tiers, monthly and annual rates, and 30-day trial; reiterates customer/learner counts."
+    },
+    {
+      "url": "https://www.newswire.ca/news-releases/thinkific-announces-third-quarter-2024-financial-results-806836046.html",
+      "credibility": "medium",
+      "note": "Q3 2024 financial results with $17.2M revenue, $58.0M ARR, and 50k+ active customers; confirms HQ in Vancouver."
+    },
+    {
+      "url": "https://www.thinkific.com/press/",
+      "credibility": "medium",
+      "note": "Press page stating headquarters in Vancouver, BC and 165+ countries served."
+    },
+    {
+      "url": "https://bcbusiness.ca/The-Innovators-Thinkific-is-teaching-the-world-how-to-educate-remotely",
+      "credibility": "medium",
+      "note": "BCBusiness profile noting Thinkific was co-founded by Greg Smith in 2012 in Vancouver."
+    }
+  ],
+  "feasibility": {
+    "story_core": true,
+    "proof_strength": true,
+    "social_relevance": true,
+    "decision": "publish",
+    "reason": "Founder story, pricing, large-scale usage, and financial performance are documented with current primary sources."
+  }
+}

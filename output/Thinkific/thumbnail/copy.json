@@ -1,0 +1,24 @@
+{
+  "thumbnail_copy": [
+    {
+      "pattern": "number",
+      "text": "50K顧客が$3.7B+を売った学習コマース"
+    },
+    {
+      "pattern": "failure",
+      "text": "教室じゃ届かない。だから自作したLSAT講座が原点"
+    },
+    {
+      "pattern": "reverse",
+      "text": "決済からコミュニティまで1UIに詰め込んだ理由"
+    },
+    {
+      "pattern": "empathy",
+      "text": "受講生データを手放したくない講師へ"
+    },
+    {
+      "pattern": "future",
+      "text": "学習×決済の次の伸びしろはコミュニティ収益"
+    }
+  ]
+}

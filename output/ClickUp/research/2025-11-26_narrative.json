@@ -1,0 +1,46 @@
+{
+  "narrative": [
+    {
+      "section": "Before",
+      "fact": "社内の業務で複数ツールを行き来する非効率を解消するため、内部利用向けに一体型ツールを作り始めた。",
+      "source": "https://clickup.com/about"
+    },
+    {
+      "section": "Pain",
+      "fact": "生産性がタスク・ドキュメント・コミュニケーションの別ツールに分断されているという課題認識。",
+      "source": "https://clickup.com/about"
+    },
+    {
+      "section": "Trigger",
+      "fact": "2017年、社内用として開発したオールインワンプラットフォームを一般公開することを決め、会社として創業。",
+      "source": "https://en.wikipedia.org/wiki/ClickUp"
+    },
+    {
+      "section": "MVP",
+      "fact": "タスク管理、チャット、ドキュメント、ホワイトボードを単一ワークスペースにまとめた初期版を公開。",
+      "source": "https://en.wikipedia.org/wiki/ClickUp"
+    },
+    {
+      "section": "Validation",
+      "fact": "2025年時点で200万チームが利用と公式発表。2020年にSeries Bで$100M、2021年にSeries Cで$400Mを調達し評価額$4Bに到達。",
+      "source": "https://clickup.com/about ; https://en.wikipedia.org/wiki/ClickUp"
+    },
+    {
+      "section": "Differentiation",
+      "fact": "タスク・チャット・ドキュメント・可視化ビューを1つのUIで扱える“ワンアプリ”設計。",
+      "source": "https://en.wikipedia.org/wiki/ClickUp"
+    },
+    {
+      "section": "Progress",
+      "fact": "2020年に本社をサンディエゴへ移転し、2023年にはダブリンにEMEAオフィスを開設し欧州約200名体制に拡大。",
+      "source": "https://www.irishtimes.com/business/2023/03/08/clickup-opens-new-dublin-office-as-it-eyes-further-expansion/"
+    }
+  ],
+  "story_judgement": {
+    "story_core": true,
+    "proof_strength": true,
+    "social_relevance": true,
+    "decision": "publish",
+    "reason": "創業動機・利用規模・大型調達と地域展開が確認でき、事実のみでストーリーが成立する。"
+  }
+}

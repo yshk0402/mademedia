@@ -1,0 +1,141 @@
+{
+  "service": "Kit",
+  "company": "Kit (formerly ConvertKit)",
+  "founders": [
+    {
+      "name": "Nathan Barry",
+      "role": "Founder + CEO",
+      "source": "https://kit.com/about"
+    }
+  ],
+  "founded_year": "2013",
+  "category": "Email-first marketing, automation, and commerce platform for creators",
+  "team": {
+    "current": "89 team members across 72 cities (Kit about page)",
+    "press_release": "80-person, fully remote company noted during 2024 rebrand",
+    "sources": [
+      "https://kit.com/about",
+      "https://kit.com/news/convertkit-rebrands-kit"
+    ]
+  },
+  "product_summary": "Email-first operating system combining email marketing, visual automations, landing pages/forms, commerce, Creator Network recommendations, and an app store for extensions.",
+  "pricing": [
+    {
+      "plan": "Newsletter",
+      "price": "$0/mo",
+      "notes": "Free for up to 10,000 subscribers; 14-day free trial and free migrations noted on pricing page.",
+      "source": "https://kit.com/pricing"
+    },
+    {
+      "plan": "Creator",
+      "price": "$33/mo (billed yearly)",
+      "notes": "Paid plan with higher limits and advanced features.",
+      "source": "https://kit.com/pricing"
+    },
+    {
+      "plan": "Creator Pro",
+      "price": "$66/mo (billed yearly)",
+      "notes": "Top tier with additional reporting and automation controls.",
+      "source": "https://kit.com/pricing"
+    }
+  ],
+  "go_to_market": {
+    "affiliate_program": {
+      "commission": "50% recurring for the first 12 months; loyalty tiers add +10% (Bronze, 10+ referrals), +15% (Silver, 50+), +20% (Gold, 100+) after 12 months while active.",
+      "source": "https://kit.com/affiliate"
+    },
+    "free_plan": {
+      "offer": "Newsletter plan free up to 10,000 subscribers as part of the rebrand rollout.",
+      "source": "https://kit.com/news/convertkit-rebrands-kit"
+    }
+  },
+  "kpi": [
+    {
+      "metric": "Creators on platform",
+      "value": "640,000+ creators use Kit",
+      "year": "2024",
+      "source": "https://kit.com/news/convertkit-rebrands-kit"
+    },
+    {
+      "metric": "Annual recurring revenue",
+      "value": "$41MM ARR",
+      "year": "2024",
+      "source": "https://kit.com/news/convertkit-rebrands-kit"
+    },
+    {
+      "metric": "Email volume",
+      "value": "100,000+ creators send 2B+ emails each month (pre-rebrand figure)",
+      "year": "2023",
+      "source": "https://kit.com/news/convertkit-acquires-sparkloop"
+    },
+    {
+      "metric": "Team distribution",
+      "value": "89 team members across 72 cities",
+      "year": "2025",
+      "source": "https://kit.com/about"
+    }
+  ],
+  "recent_moves": [
+    {
+      "item": "Public rebrand from ConvertKit to Kit and positioning as the email-first operating system for creators.",
+      "source": "https://kit.com/resources/blog/convertkit-is-now-kit"
+    },
+    {
+      "item": "Launched app store, data hub, and free newsletter tier as part of the rebrand.",
+      "source": "https://kit.com/news/convertkit-rebrands-kit"
+    },
+    {
+      "item": "Acquired SparkLoop to add Paid Recommendations and audience growth network capabilities.",
+      "source": "https://kit.com/news/convertkit-acquires-sparkloop"
+    }
+  ],
+  "mission": {
+    "statement": "Help creators build more valuable businesses (mission page).",
+    "vision_targets": "$1B paid to creators, $100M ARR, 250k creators on platform, remain 100% independent.",
+    "source": "https://kit.com/mission"
+  },
+  "meta": {
+    "story_core": true,
+    "proof_strength": true,
+    "social_relevance": true,
+    "decision": "publish",
+    "reason": "Founding year, creator count, ARR, remote team size, pricing, and affiliate terms are documented on official Kit pages and press releases."
+  },
+  "sources": [
+    {
+      "url": "https://kit.com/news/convertkit-rebrands-kit",
+      "credibility": "high",
+      "note": "Press release with 640k creators, $41MM ARR, 80-person remote team, rebrand details, free newsletter tier."
+    },
+    {
+      "url": "https://kit.com/resources/blog/convertkit-is-now-kit",
+      "credibility": "medium",
+      "note": "Brand blog describing shift from ConvertKit to Kit as email-first OS."
+    },
+    {
+      "url": "https://kit.com/about",
+      "credibility": "medium",
+      "note": "About page listing 89 team members across 72 cities and founder role."
+    },
+    {
+      "url": "https://kit.com/pricing",
+      "credibility": "medium",
+      "note": "Plan pricing: Newsletter $0, Creator $33/mo, Creator Pro $66/mo billed yearly; up to 10k subscribers on free tier."
+    },
+    {
+      "url": "https://kit.com/affiliate",
+      "credibility": "medium",
+      "note": "Affiliate terms: 50% for first 12 months; +10-20% lifetime based on Bronze/Silver/Gold tiers."
+    },
+    {
+      "url": "https://kit.com/news/convertkit-acquires-sparkloop",
+      "credibility": "high",
+      "note": "SparkLoop acquisition release citing 100k creators sending 2B+ emails monthly."
+    },
+    {
+      "url": "https://kit.com/mission",
+      "credibility": "medium",
+      "note": "Mission/vision targets: $1B paid to creators, $100M ARR goal, 250k creators, stay independent."
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "service": "Kajabi",
+  "company": "Kajabi LLC",
+  "founders": [
+    {
+      "name": "Kenny Rueter",
+      "bio_summary": "Software engineer who built a PVC sprinkler toy for his kids and, after struggling to monetize a how-to video, started Kajabi to sell digital products.",
+      "source": "https://en.wikipedia.org/wiki/Kajabi"
+    },
+    {
+      "name": "Travis Rosser",
+      "bio_summary": "Co-founded Kajabi with Kenny Rueter in 2010 to package the tools creators needed to launch online businesses.",
+      "source": "https://en.wikipedia.org/wiki/Kajabi"
+    }
+  ],
+  "founded_year": "2010",
+  "hq": "Newport Beach, California, U.S.",
+  "category": "All-in-one platform for online courses, memberships, podcasts, and digital products",
+  "product_summary": "Kajabi provides website, digital product hosting, email marketing, payments, and analytics in one subscription so creators can sell courses, memberships, downloads, and podcasts without stitching tools together.",
+  "pricing": "Pricing page lists tiered plans (Kickstarter/Basic/Growth/Pro) with product and contact limits, no revenue sharing, and standard payment processing fees via Kajabi Payments (details outlined on the official pricing page).",
+  "core_problem": {
+    "statement": "Rueter could not monetize a how-to video for his sprinkler toy and built Kajabi to unify the tools needed to own and sell digital content directly.",
+    "source": "https://en.wikipedia.org/wiki/Kajabi"
+  },
+  "kpi": [
+    {
+      "metric": "Active users",
+      "value": "51,000 active users across 138 countries",
+      "year": "2022",
+      "source": "https://en.wikipedia.org/wiki/Kajabi"
+    },
+    {
+      "metric": "Creator revenue",
+      "value": "$10B+ earned by creators on Kajabi",
+      "year": "2025",
+      "source": "https://kajabi.com/pricing"
+    },
+    {
+      "metric": "Customer reach",
+      "value": "75M+ end customers and 100K+ businesses launched on Kajabi",
+      "year": "2025",
+      "source": "https://kajabi.com/pricing"
+    },
+    {
+      "metric": "Company size",
+      "value": "200 employees",
+      "year": "2021",
+      "source": "https://en.wikipedia.org/wiki/Kajabi"
+    }
+  ],
+  "competition": [
+    {
+      "name": "Teachable",
+      "url": "https://teachable.com",
+      "reason_compared": "Competes for creators selling courses and coaching with hosted checkout and analytics."
+    },
+    {
+      "name": "Thinkific",
+      "url": "https://www.thinkific.com",
+      "reason_compared": "Another course platform with memberships and communities for similar creator audiences."
+    },
+    {
+      "name": "Podia",
+      "url": "https://www.podia.com",
+      "reason_compared": "Lightweight all-in-one platform for courses, downloads, and memberships."
+    }
+  ],
+  "user_validation": [
+    {
+      "type": "customer_count",
+      "detail": "51K active users in 138 countries (company-reported).",
+      "source": "https://en.wikipedia.org/wiki/Kajabi"
+    },
+    {
+      "type": "creator_revenue",
+      "detail": "$10B+ in creator revenue disclosed on the pricing page FAQ.",
+      "source": "https://kajabi.com/pricing"
+    }
+  ],
+  "market_background": {
+    "insight": "Kajabi reports 100K+ businesses and $10B+ creator revenue, indicating strong demand for owned digital product infrastructure beyond marketplace platforms.",
+    "source": "https://kajabi.com/pricing"
+  },
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Kajabi",
+      "credibility": "medium",
+      "note": "Company profile with founding story, HQ, active users, and employee count."
+    },
+    {
+      "url": "https://kajabi.com/pricing",
+      "credibility": "medium",
+      "note": "Official pricing page stating $10B+ creator revenue, 75M+ customers served, and 100K+ businesses built on Kajabi with no revenue share."
+    }
+  ],
+  "feasibility": {
+    "story_core": true,
+    "proof_strength": true,
+    "social_relevance": true,
+    "decision": "publish",
+    "reason": "Founding narrative and current scale are documented by public sources, and the official site reports creator revenue and customer counts."
+  }
+}

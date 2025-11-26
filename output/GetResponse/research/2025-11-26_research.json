@@ -1,0 +1,107 @@
+{
+  "service": "GetResponse",
+  "company": "GetResponse S.A.",
+  "founders": [
+    {
+      "name": "Simon Grabowski",
+      "bio_summary": "Founded GetResponse after building a first autoresponder in 1997 to provide easy, affordable email marketing tools for businesses.",
+      "source": "https://www.getresponse.com/about"
+    }
+  ],
+  "founded_year": "1998",
+  "hq": "Gdansk, Poland",
+  "category": "Email marketing and marketing automation",
+  "product_summary": "Email marketing platform with autoresponders, automation flows, landing pages/websites, and built-in webinars to capture and nurture leads.",
+  "pricing": "Free plan at $0 with 2,500 newsletter sends/month; Starter from $19/month for up to 1,000 subscribers; Marketer from $59/month; Creator from $69/month with ecommerce tools; Max enterprise plan custom, recently advertised starting around $1,099/month (StyleFactory review).",
+  "core_problem": {
+    "statement": "Built to deliver easy, affordable marketing tools after Grabowski created his own autoresponder to automate follow-ups for businesses that lacked simple email automation.",
+    "source": "https://www.getresponse.com/about"
+  },
+  "kpi": [
+    {
+      "metric": "Customer base milestone",
+      "value": "300,000 customers reached",
+      "year": "2013",
+      "source": "https://www.getresponse.com/about"
+    },
+    {
+      "metric": "Global customers",
+      "value": ">350,000 customers across 183 countries",
+      "year": "2025",
+      "source": "https://www.emailtooltester.com/en/reviews/getresponse/"
+    },
+    {
+      "metric": "Global reach",
+      "value": "Operations in 183 countries (per 2025 review)",
+      "year": "2025",
+      "source": "https://www.emailtooltester.com/en/reviews/getresponse/"
+    }
+  ],
+  "competition": [
+    {
+      "name": "Mailchimp",
+      "url": "https://mailchimp.com",
+      "reason_compared": "Popular all-in-one email marketing platform targeting SMBs with templates and basic automation."
+    },
+    {
+      "name": "ActiveCampaign",
+      "url": "https://www.activecampaign.com",
+      "reason_compared": "Marketing automation and CRM platform used for complex email journeys and sales automation."
+    },
+    {
+      "name": "Brevo (Sendinblue)",
+      "url": "https://www.brevo.com",
+      "reason_compared": "Affordable email/SMS automation suite competing on price and transactional messaging."
+    }
+  ],
+  "user_validation": [
+    {
+      "type": "customer_review",
+      "detail": "Independent EmailToolTester review notes GetResponse serves more than 350,000 customers in 183 countries, indicating broad adoption.",
+      "source": "https://www.emailtooltester.com/en/reviews/getresponse/"
+    }
+  ],
+  "market_background": {
+    "insight": "Global email marketing software market was valued at $1.38B in 2023 and is projected to reach $3.73B by 2032 (CAGR 11.8%).",
+    "source": "https://www.fortunebusinessinsights.com/email-marketing-software-market-103100"
+  },
+  "sources": [
+    {
+      "url": "https://www.getresponse.com/about",
+      "credibility": "high",
+      "note": "Official about page with founder, timeline, and customer milestone."
+    },
+    {
+      "url": "https://www.getresponse.com/legal",
+      "credibility": "high",
+      "note": "Legal page listing registered office in Gdansk, Poland."
+    },
+    {
+      "url": "https://www.emailtooltester.com/en/reviews/getresponse/",
+      "credibility": "medium",
+      "note": "Independent 2025 review stating 350k+ customers across 183 countries."
+    },
+    {
+      "url": "https://www.stylefactoryproductions.com/blog/getresponse-pricing",
+      "credibility": "medium",
+      "note": "Detailed pricing breakdown for Free/Starter/Marketer/Creator/Max plans."
+    },
+    {
+      "url": "https://www.fortunebusinessinsights.com/email-marketing-software-market-103100",
+      "credibility": "medium",
+      "note": "Market size projection for email marketing software (2023–2032)."
+    },
+    {
+      "url": "https://www.getresponse.com/features",
+      "credibility": "high",
+      "note": "Official feature set covering autoresponders, landing pages, and webinars."
+    }
+  ],
+  "feasibility": {
+    "story_core": true,
+    "proof_strength": true,
+    "social_relevance": true,
+    "decision": "publish",
+    "reason": "Founder story and timeline are documented by official sources, adoption is evidenced by 350k+ customers and 183-country reach, and market context shows a growing email marketing software category."
+  }
+}
