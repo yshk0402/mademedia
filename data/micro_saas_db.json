@@ -1,0 +1,971 @@
+[
+  {
+    "id": "supademo",
+    "company": "Supademo",
+    "region": "USD",
+    "category": "Interactive product demo tool",
+    "affiliate_page": "https://supademo.com/affiliates",
+    "commission_type": "Recurring (lifetime)",
+    "commission_details": "30% recurring commission as long as the customer remains subscribed.",
+    "notes": "High recurring payout; simple program with affiliate resources.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "notion",
+    "company": "Notion",
+    "region": "USD",
+    "category": "Productivity / creator tool",
+    "affiliate_page": "https://www.notion.com/affiliates",
+    "commission_type": "One-time + recurring",
+    "commission_details": "Up to $50 per activated sign-up plus 20% of first-year revenue.",
+    "notes": "Limited intake; runs via PartnerStack.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "pipedrive",
+    "company": "Pipedrive",
+    "region": "USD",
+    "category": "CRM & sales pipeline",
+      "affiliate_page": "https://www.pipedrive.com/en/affiliate-partnership",
+      "commission_type": "Recurring (12 months)",
+      "commission_details": "20% of revenue for the first 12 months, rising to 30% for high-performing affiliates; 90-day cookie.",
+      "notes": "Tiered structure that rewards volume.",
+      "story": {
+      "founding": "Founded in 2010 in Tallinn by Timo Rein, Urmas Purde, Martin Tajur, Ragnar Sass, and Martin Henk to build a CRM designed by and for salespeople.",
+      "mvp": "Early product was a kanban-style pipeline with activity reminders that forced reps to focus on the next action instead of data entry.",
+      "pmf": "Hit PMF with SMB sales teams frustrated by heavyweight CRMs, showing high daily engagement from reps who lived in the pipeline view.",
+      "market_context": "Crowded CRM market dominated by Salesforce and Zoho; SMBs were underserved by complex enterprise-first tools amid rapid SaaS adoption.",
+      "growth_drivers": "Product-led free trial, strong word of mouth from sales operators, deep email/calendar integrations, multi-language rollout, and scaling partner/affiliate channels."
+    }
+  },
+  {
+    "id": "clickup",
+    "company": "ClickUp",
+    "region": "USD",
+    "category": "Project management",
+    "affiliate_page": "https://clickup.com/partners/affiliates",
+    "commission_type": "One-time",
+    "commission_details": "$25 per new free workspace; 30-day cookie.",
+    "notes": "Focuses on free sign-ups, not revenue.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "kit",
+    "company": "Kit (ConvertKit)",
+    "region": "USD",
+    "category": "Email marketing",
+    "affiliate_page": "https://kit.com/affiliate",
+    "commission_type": "Recurring + bonus",
+    "commission_details": "50% recurring for 12 months; +10–20% loyalty tiers beyond first year.",
+    "notes": "High first-year payout with loyalty tiers.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "teachable",
+    "company": "Teachable",
+    "region": "USD",
+    "category": "Online course platform",
+    "affiliate_page": "https://teachable.com/partners",
+    "commission_type": "Recurring (12 months)",
+    "commission_details": "30% recurring for 1 year; 30-day cookie.",
+    "notes": "Well-known program via PartnerStack.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "kajabi",
+    "company": "Kajabi",
+    "region": "USD",
+    "category": "Membership / digital products",
+    "affiliate_page": "https://kajabi.com/partners",
+    "commission_type": "One-time + recurring",
+    "commission_details": "Up to $399 upfront per sale + 20% recurring revenue.",
+    "notes": "Tiered levels; large upfront bonuses.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "thinkific",
+    "company": "Thinkific",
+    "region": "USD",
+    "category": "Online course platform",
+    "affiliate_page": "https://www.thinkific.com/partners",
+    "commission_type": "Recurring (lifetime)",
+    "commission_details": "30% lifetime recurring; 90-day cookie.",
+    "notes": "Strong lifetime revenue share.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "beehiiv",
+    "company": "Beehiiv",
+    "region": "USD",
+    "category": "Newsletter platform",
+    "affiliate_page": "https://www.beehiiv.com/partner",
+    "commission_type": "Recurring (12 months)",
+    "commission_details": "50% recurring for 12 months; 30-day cookie.",
+    "notes": "One of the highest percentage rates.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "aweber",
+    "company": "AWeber",
+    "region": "USD",
+    "category": "Email marketing",
+    "affiliate_page": "https://www.aweber.com/advocates.htm",
+    "commission_type": "Recurring (lifetime)",
+    "commission_details": "30% (0–99 customers), 40% (100–499), 50% (500+) recurring.",
+    "notes": "Lifetime payouts; encourages scaling.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "getresponse",
+    "company": "GetResponse",
+    "region": "USD",
+    "category": "Marketing automation",
+    "affiliate_page": "https://www.getresponse.com/affiliate-program",
+    "commission_type": "Recurring (12 months)",
+    "commission_details": "40% (Bronze), 50% (Silver), 60% (Gold) recurring for 12 months.",
+    "notes": "Very high tiered payout structure.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "grammarly",
+    "company": "Grammarly",
+    "region": "USD",
+    "category": "Writing assistant",
+    "affiliate_page": "https://www.grammarly.com/affiliates",
+    "commission_type": "One-time",
+    "commission_details": "$0.20 per free signup; $20 per Premium purchase. 90-day cookie.",
+    "notes": "Low payouts but huge global volume; cross-device tracking.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "semrush",
+    "company": "Semrush",
+    "region": "USD",
+    "category": "SEO / marketing",
+    "affiliate_page": "https://www.semrush.com/affiliates/",
+    "commission_type": "One-time + bonuses",
+    "commission_details": "$10 per trial; $50–300 per sale; loyalty tiers raise it to $300–450. 120-day cookie.",
+    "notes": "Long cookie + very high payouts; top-tier SEO tool.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "postplanner",
+    "company": "Post Planner",
+    "region": "USD",
+    "category": "Social media scheduling",
+    "affiliate_page": "https://postplanner.com/partner-program/",
+    "commission_type": "Recurring (18 months)",
+    "commission_details": "30% recurring for 18 months; 30-day cookie.",
+    "notes": "Includes marketing materials + dedicated support.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "webflow",
+    "company": "Webflow",
+    "region": "USD",
+    "category": "No-code website builder",
+    "affiliate_page": "https://webflow.com/partner/affiliates",
+    "commission_type": "Recurring (12 months)",
+    "commission_details": "50% of subscription revenue for up to 12 months.",
+    "notes": "High revenue share; focuses on designers & creators.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "wpengine",
+    "company": "WP Engine",
+    "region": "USD",
+    "category": "WordPress hosting",
+    "affiliate_page": "https://wpengine.com/affiliates/",
+    "commission_type": "One-time + bonuses",
+    "commission_details": "Minimum $200 per sale or 100% of first month fee; 180-day cookie.",
+    "notes": "One of the longest cookies; strong bonuses.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "writesonic",
+    "company": "Writesonic",
+    "region": "USD",
+    "category": "AI writing",
+    "affiliate_page": "https://writesonic.com/affiliate",
+    "commission_type": "Recurring (lifetime)",
+    "commission_details": "30% recurring commission for life.",
+    "notes": "Popular AI writer; simple high recurring rate.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "descript",
+    "company": "Descript",
+    "region": "USD",
+    "category": "AI audio/video editing",
+    "affiliate_page": "https://www.descript.com/affiliate",
+    "commission_type": "One-time",
+    "commission_details": "$25 per new paid subscriber.",
+    "notes": "Flat payout; very easy entry for affiliates.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "surferseo",
+    "company": "Surfer SEO",
+    "region": "USD",
+    "category": "SEO optimization",
+    "affiliate_page": "https://surferseo.com/affiliates/",
+    "commission_type": "One-time (CPA)",
+    "commission_details": "75% monthly + 15% annual; 100% + 20%; 125% + 25%; 180-day cookie.",
+    "notes": "High CPA; long cookie; rewards volume heavily.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "colossyan",
+    "company": "Colossyan",
+    "region": "USD",
+    "category": "AI video generation",
+    "affiliate_page": "https://www.colossyan.com/affiliate-program",
+    "commission_type": "Recurring (up to 1 year)",
+    "commission_details": "25% base; 35% with custom avatar; 50% with $1000 bonus; 90-day cookie.",
+    "notes": "Custom avatar rewards + cash bonus tiers.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+   {
+    "id": "synthesia",
+    "company": "Synthesia",
+    "region": "USD",
+    "category": "AI video generation",
+    "affiliate_page": "https://www.synthesia.io/partners/affiliates",
+    "commission_type": "One-time + recurring",
+    "commission_details": "Up to $267 per referral; 25% recurring on Starter/Creator plans for 12 months; 60-day cookie.",
+    "notes": "Provides free plan + milestone rewards (custom avatar).",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "frase",
+    "company": "Frase",
+    "region": "USD",
+    "category": "AI SEO & content",
+    "affiliate_page": "https://www.frase.io/partners/affiliates/",
+    "commission_type": "Recurring (12 months)",
+    "commission_details": "30% recurring for 12 months; 60-day cookie.",
+    "notes": "Simple recurring structure with tiers for top performers.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "beefree",
+    "company": "Beefree",
+    "region": "USD",
+    "category": "Email template/design",
+    "affiliate_page": "https://beefree.io/ambassador-program",
+    "commission_type": "One-time (first year)",
+    "commission_details": "20% of the first-year revenue.",
+    "notes": "Focuses on first-year spend; no recurring payout.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "veedio",
+    "company": "VEED.io",
+    "region": "USD",
+    "category": "Video editing",
+    "affiliate_page": "https://support.veed.io/en/articles/6935062-veed-referral-program",
+    "commission_type": "One-time",
+    "commission_details": "40% commission (up to $50 per referral); customer gets 50% discount.",
+    "notes": "Affiliate payout + customer discount combined.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "apollo",
+    "company": "Apollo.io",
+    "region": "USD",
+    "category": "Sales intelligence / CRM",
+    "affiliate_page": "https://www.apollo.io/partners/affiliates",
+    "commission_type": "Recurring (12 months)",
+    "commission_details": "15% on monthly plans; 20% on annual plans for 12 months.",
+    "notes": "Higher rate on annual subscriptions; PartnerStack.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "reclaim",
+    "company": "Reclaim.ai",
+    "region": "USD",
+    "category": "Calendar / productivity",
+    "affiliate_page": "https://reclaim.ai/affiliate-program",
+    "commission_type": "Recurring (12 months)",
+    "commission_details": "25% recurring for 12 months; super affiliates earn $0.25 per signup; 90-day cookie.",
+    "notes": "Includes signup bonuses in addition to recurring payout.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "omnisend",
+    "company": "Omnisend",
+    "region": "USD",
+    "category": "Email & SMS marketing",
+    "affiliate_page": "https://www.omnisend.com/affiliates/",
+    "commission_type": "Recurring (lifetime)",
+    "commission_details": "20% lifetime recurring commission; 60-day cookie.",
+    "notes": "Lifetime monthly payouts; strong retention for e-commerce merchants.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "marketingcopyai",
+    "company": "MarketingCopy AI",
+    "region": "USD",
+    "category": "AI copywriting",
+    "affiliate_page": "https://www.marketingcopy.ai/affiliate-program",
+    "commission_type": "Recurring (lifetime)",
+    "commission_details": "Up to 30% recurring for life; monthly payouts.",
+    "notes": "Simple lifetime recurring for an AI content tool.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "getgenie",
+    "company": "GetGenie AI",
+    "region": "USD",
+    "category": "AI writing & SEO assistant",
+    "affiliate_page": "https://getgenie.ai/affiliates/",
+    "commission_type": "Recurring (lifetime)",
+    "commission_details": "30% recurring; up to $356 per referral depending on plan.",
+    "notes": "High potential payout; strong WordPress plugin adoption.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "jasper",
+    "company": "Jasper AI",
+    "region": "USD",
+    "category": "AI writing",
+    "affiliate_page": "https://www.jasper.ai/legal/affiliates",
+    "commission_type": "Recurring (12 months)",
+    "commission_details": "25% recurring for 12 months; top affiliates (100 leads/year) earn 30%.",
+    "notes": "Legal page only; terms emphasize tier upgrade.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+   {
+    "id": "murf",
+    "company": "Murf AI",
+    "region": "USD",
+    "category": "AI voice generator",
+    "affiliate_page": "https://murf.ai/partner-with-us/affiliate",
+    "commission_type": "Recurring (24 months)",
+    "commission_details": "20% recurring commission for 24 months; 90-day cookie.",
+    "notes": "Long 2-year payout window; strong adoption in AI voiceover market.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "submagic",
+    "company": "Submagic",
+    "region": "USD",
+    "category": "AI video editing / auto captions",
+    "affiliate_page": "https://www.submagic.co/affiliate",
+    "commission_type": "Recurring (lifetime)",
+    "commission_details": "30% recurring commission every month for life; no cap mentioned.",
+    "notes": "Lifetime earnings; popular among short-form video creators.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "invideo",
+    "company": "InVideo",
+    "region": "USD",
+    "category": "Video creation",
+    "affiliate_page": "https://invideo.io/make/affiliate-program/",
+    "commission_type": "One-time",
+    "commission_details": "50% on monthly plans; 25% on annual plans (first billing cycle only); 120-day cookie.",
+    "notes": "High percentage but non-recurring payouts; strong YouTube creator adoption.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "activecampaign",
+    "company": "ActiveCampaign",
+    "region": "USD",
+    "category": "Email & marketing automation",
+    "affiliate_page": "https://www.activecampaign.com/partners/affiliate",
+    "commission_type": "Recurring (12 months)",
+    "commission_details": "Starts at 20% recurring; rises to 30% based on performance; average earning $1,350 per referral.",
+    "notes": "Tiered progression; high ARPU; strong enterprise adoption.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "sanebox",
+    "company": "SaneBox",
+    "region": "USD",
+    "category": "Email productivity",
+    "affiliate_page": "https://www.sanebox.com/partners",
+    "commission_type": "Recurring (lifetime)",
+    "commission_details": "Up to 30% lifetime recurring commission; $25 credits included.",
+    "notes": "High conversion rates; widely used among productivity enthusiasts.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "socialpilot",
+    "company": "SocialPilot",
+    "region": "USD",
+    "category": "Social media management",
+    "affiliate_page": "https://www.socialpilot.co/affiliate",
+    "commission_type": "Recurring (12 months)",
+    "commission_details": "20% recurring for 12 months; 90-day cookie; additional performance bonuses.",
+    "notes": "Strong in SMMA / agency markets; includes marketing resources.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "framer",
+    "company": "Framer",
+    "region": "USD",
+    "category": "No-code web design / creator program",
+    "affiliate_page": "https://www.framer.com/help/articles/how-the-creator-program-works/",
+    "commission_type": "One-time (first year)",
+    "commission_details": "Creators earn 50% of the first year’s subscription when users upgrade via their template link.",
+    "notes": "Targeted at template creators; not a traditional affiliate program.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "instantly",
+    "company": "Instantly",
+    "region": "USD",
+    "category": "Cold email & outreach automation",
+    "affiliate_page": "https://instantly.ai/affiliate",
+    "commission_type": "Recurring (lifetime)",
+    "commission_details": "20% (Silver), 30% (Gold), 40% (Platinum) recurring for life.",
+    "notes": "One of the highest lifetime tiers; fast-growing B2B SaaS.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "voomo",
+    "company": "Voomo AI",
+    "region": "USD",
+    "category": "AI content / video platform",
+    "affiliate_page": "https://www.voomo.ai/affiliate-program",
+    "commission_type": "Recurring (lifetime)",
+    "commission_details": "40% lifetime recurring; +5% at 25 subs; +10% at 50 subs (max 50%).",
+    "notes": "Simple & aggressive tier bonuses; strong for AI creators.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "walead",
+    "company": "WaLead AI",
+    "region": "USD",
+    "category": "AI lead generation",
+    "affiliate_page": "https://www.walead.ai/affiliate",
+    "commission_type": "Recurring (lifetime)",
+    "commission_details": "Up to 50% recurring on all plans.",
+    "notes": "Extremely high commission; simple structure; B2B-focused.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "heygen",
+    "company": "HeyGen",
+    "region": "USD",
+    "category": "AI video avatars",
+    "affiliate_page": "https://www.heygen.com/affiliate-program",
+    "commission_type": "Recurring (12 months)",
+    "commission_details": "20% recurring commission for 12 months; 60-day cookie.",
+    "notes": "Strong brand presence; widely used for avatar-based content; offers early access to new features.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "aistudios",
+    "company": "AI Studios (Deepbrain)",
+    "region": "USD",
+    "category": "AI video generation",
+    "affiliate_page": "https://www.aistudios.com/affiliate",
+    "commission_type": "One-time + recurring",
+    "commission_details": "50% commission on subscription purchases (monthly/annual); 60-day cookie.",
+    "notes": "One of the highest payout rates among AI video SaaS; easy Stripe-based onboarding.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "lovo",
+    "company": "LOVO AI",
+    "region": "USD",
+    "category": "Text-to-speech generator / AI voices",
+    "affiliate_page": "https://lovo.ai/affiliate-program",
+    "commission_type": "Recurring (24 months)",
+    "commission_details": "20% recurring commission for 24 months on new customers.",
+    "notes": "Popular for realistic AI voices; used broadly in YouTube and podcast workflows.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "rytr",
+    "company": "Rytr",
+    "region": "USD",
+    "category": "AI writing assistant",
+    "affiliate_page": "https://rytr.me/affiliates/",
+    "commission_type": "Recurring (lifetime)",
+    "commission_details": "30% lifetime recurring; 60-day cookie; $15 activation bonus.",
+    "notes": "Strong cross-device tracking; includes cash bonuses for high performers.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "quillbot",
+    "company": "QuillBot",
+    "region": "USD",
+    "category": "AI paraphrasing & grammar tool",
+    "affiliate_page": "https://quillbot.com/partners",
+    "commission_type": "One-time",
+    "commission_details": "10–20% commission; 30-day cookie; uses PartnerStack.",
+    "notes": "Massive user base; high free-to-premium conversion; strong SEO presence.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "scalenut",
+    "company": "Scalenut",
+    "region": "USD",
+    "category": "AI SEO & content",
+    "affiliate_page": "https://www.scalenut.com/affiliate-program",
+    "commission_type": "Recurring (lifetime)",
+    "commission_details": "30–50% recurring commission for life (from source code inspection).",
+    "notes": "High recurring potential; strong SurferSEO competitor; built on Webflow.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "impulze",
+    "company": "Impulze AI",
+    "region": "USD",
+    "category": "AI marketing automation",
+    "affiliate_page": "https://impulze.ai/partners",
+    "commission_type": "Recurring (lifetime)",
+    "commission_details": "Up to 40% recurring commissions on every qualified sale.",
+    "notes": "Tiered structure likely; emphasizes lifetime earnings; newer AI SaaS.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "homesage",
+    "company": "Homesage",
+    "region": "USD",
+    "category": "AI property marketing & CRM",
+    "affiliate_page": "https://homesage.ai/affiliates",
+    "commission_type": "Recurring (12 months)",
+    "commission_details": "Starter 25%, Growth 30%, Elite 40% recurring for 12 months; 60-day cookie.",
+    "notes": "Provides API integration and developer partnership options; strong in real estate vertical.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "omneky",
+    "company": "Omneky",
+    "region": "USD",
+    "category": "AI advertising & creative",
+    "affiliate_page": "https://omneky.com/partners",
+    "commission_type": "Recurring (lifetime)",
+    "commission_details": "Up to 40% recurring revenue share from referred customers.",
+    "notes": "Uses generative AI for ad creative optimization; strong enterprise traction.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "imagive",
+    "company": "Imagive AI",
+    "region": "USD",
+    "category": "AI image/video generation",
+    "affiliate_page": "https://imagive.ai/affiliate",
+    "commission_type": "One-time + recurring (varies)",
+    "commission_details": "Affiliate info limited; external pages suggest recurring or hybrid payouts.",
+    "notes": "Newer platform; fast growth in AI image/video workflows; affiliate structure partially undisclosed.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+   {
+    "id": "marketingcopy",
+    "company": "MarketingCopy AI",
+    "region": "USD",
+    "category": "AI copywriting",
+    "affiliate_page": "https://www.marketingcopy.ai/affiliate-program",
+    "commission_type": "Recurring (lifetime)",
+    "commission_details": "Up to 30% recurring lifetime commission with monthly payouts.",
+    "notes": "Simple structure; emphasizes lifetime value for affiliates.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "getgenie",
+    "company": "GetGenie AI",
+    "region": "USD",
+    "category": "AI writing & SEO assistant",
+    "affiliate_page": "https://getgenie.ai/affiliates/",
+    "commission_type": "Recurring (lifetime)",
+    "commission_details": "30% lifetime recurring; earnings up to $356 per referral.",
+    "notes": "Strong WordPress plugin adoption; blends SEO + AI writing features.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "jasper",
+    "company": "Jasper AI",
+    "region": "USD",
+    "category": "AI writing platform",
+    "affiliate_page": "https://www.jasper.ai/legal/affiliates",
+    "commission_type": "Recurring (12 months)",
+    "commission_details": "25% recurring for 12 months; affiliates converting 100+ leads yearly can reach 30%.",
+    "notes": "One of the earliest large AI writer SaaS; strong brand; no public marketing page.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "murfai",
+    "company": "Murf AI",
+    "region": "USD",
+    "category": "AI voice generator",
+    "affiliate_page": "https://murf.ai/partner-with-us/affiliate",
+    "commission_type": "Recurring (24 months)",
+    "commission_details": "20% recurring commission for 24 months; 90-day cookie.",
+    "notes": "Used for YouTube voiceovers, training videos, and commercial voice generation.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "submagicai",
+    "company": "Submagic AI",
+    "region": "USD",
+    "category": "AI video captioning",
+    "affiliate_page": "https://www.submagic.co/affiliate",
+    "commission_type": "Recurring (lifetime)",
+    "commission_details": "30% recurring monthly commission for life.",
+    "notes": "Popular among TikTok/Short creators; strong for auto-captioning workflows.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "voomo2",
+    "company": "Voomo AI",
+    "region": "USD",
+    "category": "AI content/video tool",
+    "affiliate_page": "https://www.voomo.ai/affiliate-program",
+    "commission_type": "Recurring (lifetime)",
+    "commission_details": "Base 40% lifetime; bonuses up to 50% based on active referrals.",
+    "notes": "Easy integration for creators; aggressive lifetime commission model.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  },
+  {
+    "id": "waleadai",
+    "company": "WaLead AI",
+    "region": "USD",
+    "category": "AI lead generation",
+    "affiliate_page": "https://www.walead.ai/affiliate",
+    "commission_type": "Recurring (lifetime)",
+    "commission_details": "Up to 50% recurring commission on every active subscription.",
+    "notes": "One of the highest commission percentages across all SaaS.",
+    "story": {
+      "founding": "",
+      "mvp": "",
+      "pmf": "",
+      "market_context": "",
+      "growth_drivers": ""
+    }
+  }
+]

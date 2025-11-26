@@ -1,0 +1,12 @@
+{
+  "concept": "資金が尽きかけた創業者が京都のアパートで旧プロダクトを捨て、ブロックエディタをゼロから書き直す夜。画面の中でブロックが光り、再構成されていく静かな決意の瞬間。",
+  "design_instructions": {
+    "composition": "Left/mid: founder at a low desk in a small Kyoto apartment, laptop showing a block-based editor being rewritten; glowing block primitives stack and float above the screen. Background: faint shoji texture and distant Kyoto night lights. Right-upper corner: clean dark navy gradient kept empty as logo placeholder.",
+    "colors": ["#0B1A2B", "#12324A", "#2E7DAF", "#D9C8A9", "#E9E9E5"],
+    "lighting": "cinematic mix of warm desk lamp from the left and cool blue monitor glow on hands and face; subtle rim light to separate the figure from the background",
+    "texture": "slightly grainy, documentary film look",
+    "emotion": "静かな再起と集中",
+    "logo_placeholder": "Right-upper 18% reserved as negative space with a dark navy gradient for the official service logo; keep it uncluttered and low-contrast."
+  },
+  "final_prompt": "Cinematic, ultra-detailed documentary scene in a small Kyoto apartment at night. A founder sits at a low desk, laptop open with a block-based editor being rewritten; luminous block primitives rise and stack from the screen, symbolizing rebuilding the product. Warm desk lamp from the left, cool blue monitor glow on face and hands, slight rim light. Minimalist background with faint shoji texture and distant city lights, slight film grain. Clear negative space in the right-upper 18% with a dark navy gradient reserved for the official service logo (do NOT draw a logo). High realism, strong readability, 16:9."
+}

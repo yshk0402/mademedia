@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FoundersDream - Coming Soon</title>
+  <link rel="stylesheet" href="./waitlist.css" />
+</head>
+<body>
+
+<div class="waitlist-floating">
+  <div class="waitlist-card">
+    <p class="waitlist-heading">Founders Dream is Coming Soon...!</p>
+    <button class="button js-show-form">ウェイトリストに登録する。</button>
+    <form class="js-form hidden form">
+      <div class="form-container">
+        <input type="text" placeholder="Full Name" class="js-input-name" />
+        <div class="js-name-error name-error hidden">
+          Please enter a valid name
+        </div>
+      </div>
+      <div class="form-container">
+        <input type="email" placeholder="Email" class="js-input-email" />
+        <div class="js-email-error email-error hidden">
+          Please enter a valid email
+        </div>
+      </div>
+      <div class="form-container">
+        <input type="submit" value="登録" class="js-submit-form button" />
+      </div>
+    </form>
+    <div class="success-message js-success hidden">
+      You have successfully joined the waitlist!
+    </div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="./waitlist.js"></script>
+
+</body>
+</html>

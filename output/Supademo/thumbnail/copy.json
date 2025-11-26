@@ -1,0 +1,12 @@
+{
+  "concept": "After losing 95% of revenue, founder Joseph Lee builds Supademo's first interactive demo late at night, determined to replace tiring video re-shoots with a click-through experience.",
+  "design_instructions": {
+    "composition": "Left 55%: founder at a desk in a small apartment, laptop open with a glowing browser window showing clickable steps. Right 45%: dark navy-to-charcoal gradient negative space, clean and empty for overlays. Strong vertical separation with soft vignette.",
+    "logo_placeholder": "Top-right 20% area kept smooth and uncluttered, low-contrast gradient for official service logo placement (do not generate a logo).",
+    "title_area": "Bottom-right 40% kept empty with subtle gradient only, no objects or text, to reserve space for the article title overlay.",
+    "colors": ["#0D1B2A", "#111827", "#1F2937", "#38BDF8", "#F8FAFC"],
+    "lighting": "Cinematic warm key light from a desk lamp on the founder's left; cool blue rim light from the laptop; right side remains dim with smooth falloff to emphasize separation.",
+    "texture": "Slight film grain and soft vignette for documentary tone."
+  },
+  "final_prompt": "Cinematic documentary-style 16:9 thumbnail. Left 55%: founder Joseph Lee working late at a desk, laptop screen glowing with an interactive demo flow, warm desk lamp light, focused expression. Right 45%: clean dark navy-to-charcoal gradient negative space reserved for logo (top-right) and title (bottom-right), no text, no logo. Clear separation via soft vignette. Subtle film grain, high detail, storytelling mood."
+}
