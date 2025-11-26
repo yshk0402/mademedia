@@ -1,0 +1,88 @@
+{
+  "outline": [
+    {
+      "section": "Free Hook",
+      "points": [
+        "Built from a 1997 Polish autoresponder to a platform serving 350k+ customers in 183 countries (2025 review).",
+        "Email marketing software market growing from $1.38B in 2023 to $3.73B by 2032 (11.8% CAGR)."
+      ]
+    },
+    {
+      "section": "Before & Pain",
+      "points": [
+        "Founder Simon Grabowski lacked simple, affordable automation tools and built his own autoresponder in Poland.",
+        "Mission: tailor easy email marketing for businesses that needed automation without heavy stacks."
+      ]
+    },
+    {
+      "section": "Trigger & MVP",
+      "points": [
+        "Registered getresponse.com in 1998 to launch the autoresponder as a product.",
+        "Early product delivered autoresponders and newsletters as the core experience."
+      ]
+    },
+    {
+      "section": "Validation",
+      "points": [
+        "Hit 300k customers by 2013 (official timeline).",
+        "By 2025 review, 350k+ customers across 183 countries, showing continued adoption."
+      ]
+    },
+    {
+      "section": "Differentiation",
+      "points": [
+        "Bundles automation, landing pages/websites, and webinars instead of email-only tooling.",
+        "Combines capture (landing pages), nurture (autoresponders), and live engagement (webinars)."
+      ]
+    },
+    {
+      "section": "Free Summary",
+      "points": [
+        "Recap: Polish founder-built autoresponder grew into a 350k-customer platform with bundled growth tools.",
+        "Paid part will cover plan selection, practical setups, and when to choose GetResponse vs rivals."
+      ]
+    },
+    {
+      "section": "How to Use",
+      "points": [
+        "Pick Free (2,500 sends) or Starter/Marketer/Creator based on list size and automation depth.",
+        "Set up autoresponders, landing pages, and webinars as a unified funnel for capture→nurture→conversion.",
+        "Use built-in website/landing tools to avoid extra hosting while testing campaigns."
+      ]
+    },
+    {
+      "section": "Success Patterns",
+      "points": [
+        "SMBs and creators leverage automation plus webinars to onboard and sell without separate webinar software.",
+        "Global reach (183 countries) suggests multi-language campaigns; use localized pages and sends."
+      ]
+    },
+    {
+      "section": "Competition",
+      "points": [
+        "Mailchimp: strong templates; GetResponse differentiates with webinars and automation bundles.",
+        "ActiveCampaign: deep automation/CRM; GetResponse offers integrated pages and webinars at lower entry price.",
+        "Brevo (Sendinblue): low-cost email/SMS; GetResponse suits when webinars and landing sites are needed."
+      ]
+    },
+    {
+      "section": "ROI & Decision Framework",
+      "points": [
+        "Match contact count to plan thresholds (1,000 subscribers at $19 Starter; 2,500 sends free plan).",
+        "Account for bundled tools replacing standalone landing page or webinar software in cost calculations.",
+        "Enterprise Max starts around $1,099/month; assess migration/onboarding support needs."
+      ]
+    },
+    {
+      "section": "Paid Summary",
+      "points": [
+        "Checklist: choose plan by list size, connect landing pages/webinars, set autoresponders, compare with competitors.",
+        "When GetResponse wins: needing bundled webinars/automation; when rivals win: specialized CRM depth or SMS focus."
+      ]
+    }
+  ],
+  "length_target": {
+    "free": 3000,
+    "paid": 3000
+  }
+}

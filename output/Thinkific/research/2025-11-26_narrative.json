@@ -1,0 +1,46 @@
+{
+  "narrative": [
+    {
+      "section": "Before",
+      "fact": "Greg Smith taught an LSAT course and looked for ways to reach more students beyond in-person delivery.",
+      "source": "https://www.thinkific.com/about"
+    },
+    {
+      "section": "Pain",
+      "fact": "Relying on in-person teaching or marketplaces limited branding control and revenue potential for creators.",
+      "source": "https://www.thinkific.com/about"
+    },
+    {
+      "section": "Trigger",
+      "fact": "Greg and his brother Matt custom-built an online version of the course to scale access, proving demand quickly.",
+      "source": "https://www.thinkific.com/about"
+    },
+    {
+      "section": "MVP",
+      "fact": "Course earnings soon surpassed Greg’s law practice, prompting Greg, Matt, Miranda Lievers, and Matt Payne to formalize a platform for other creators.",
+      "source": "https://www.thinkific.com/about"
+    },
+    {
+      "section": "Validation",
+      "fact": "Thinkific reports 35,000 customers earning $3.7B+ and impacting 200M+ learners, with a Q3 2024 press release citing 50,000+ active customers.",
+      "source": "https://www.thinkific.com/about"
+    },
+    {
+      "section": "Differentiation",
+      "fact": "Positions itself as a learning commerce platform bundling courses, communities, memberships, downloads, and integrated payments under the creator’s brand.",
+      "source": "https://www.newswire.ca/news-releases/thinkific-announces-third-quarter-2024-financial-results-806836046.html"
+    },
+    {
+      "section": "Progress",
+      "fact": "Publicly traded on TSX (THNC) with Q3 2024 revenue of $17.2M (+15% YoY) and $58.0M ARR; headquartered in Vancouver, Canada.",
+      "source": "https://www.newswire.ca/news-releases/thinkific-announces-third-quarter-2024-financial-results-806836046.html"
+    }
+  ],
+  "story_judgement": {
+    "story_core": true,
+    "proof_strength": true,
+    "social_relevance": true,
+    "decision": "publish",
+    "reason": "Founder-built MVP story is documented, large-scale usage and earnings are reported, and recent financial results confirm growth and traction."
+  }
+}

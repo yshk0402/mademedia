@@ -1,0 +1,46 @@
+{
+  "narrative": [
+    {
+      "section": "Before",
+      "fact": "Kenny Rueter built a PVC sprinkler toy for his kids and shared a how-to video online before starting a company.",
+      "source": "https://en.wikipedia.org/wiki/Kajabi"
+    },
+    {
+      "section": "Pain",
+      "fact": "He struggled to monetize the instructional video and lacked an integrated way to sell digital content directly.",
+      "source": "https://en.wikipedia.org/wiki/Kajabi"
+    },
+    {
+      "section": "Trigger",
+      "fact": "Rueter and Travis Rosser founded Kajabi in 2010 to package the software stack digital entrepreneurs needed in one place.",
+      "source": "https://en.wikipedia.org/wiki/Kajabi"
+    },
+    {
+      "section": "MVP",
+      "fact": "The first Kajabi release integrated website, content hosting, and payment tools so creators could launch online businesses without stitching services together.",
+      "source": "https://en.wikipedia.org/wiki/Kajabi"
+    },
+    {
+      "section": "Validation",
+      "fact": "By February 2022 the company reported 51,000 active users across 138 countries using the platform.",
+      "source": "https://en.wikipedia.org/wiki/Kajabi"
+    },
+    {
+      "section": "Differentiation",
+      "fact": "Kajabi positions itself as an all-in-one knowledge commerce platform with site builder, email, analytics, mobile app, and Kajabi Payments with no revenue share on sales.",
+      "source": "https://kajabi.com/pricing"
+    },
+    {
+      "section": "Progress",
+      "fact": "The pricing page states Kajabi has helped over 75 million customers, 100K+ businesses, and delivered $10B+ in creator revenue.",
+      "source": "https://kajabi.com/pricing"
+    }
+  ],
+  "story_judgement": {
+    "story_core": true,
+    "proof_strength": true,
+    "social_relevance": true,
+    "decision": "publish",
+    "reason": "Founding pain and solution are documented; user scale and creator earnings are reported on the official site and corroborated by public profiles."
+  }
+}

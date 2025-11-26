@@ -1,0 +1,46 @@
+{
+  "narrative": [
+    {
+      "section": "Before",
+      "fact": "ConvertKit launched in 2013 to help creators convert traffic into email subscribers and earn a living online.",
+      "source": "https://kit.com/news/convertkit-rebrands-kit"
+    },
+    {
+      "section": "Pain",
+      "fact": "Serious creators needed an email platform built for their workflows rather than generic marketing automation, motivating a purpose-built stack.",
+      "source": "https://kit.com/resources/blog/convertkit-is-now-kit"
+    },
+    {
+      "section": "Trigger",
+      "fact": "Rebranding in public to Kit signaled a shift to an email-first operating system with app store, data hub, and free newsletter tier (up to 10k subs).",
+      "source": "https://kit.com/news/convertkit-rebrands-kit"
+    },
+    {
+      "section": "MVP",
+      "fact": "Core product combined email marketing, landing pages, visual automations, and commerce aimed at creators from the outset.",
+      "source": "https://kit.com/resources/blog/convertkit-is-now-kit"
+    },
+    {
+      "section": "Validation",
+      "fact": "More than 640,000 creators use the platform and it generates $41MM in ARR with an 80-person fully remote team.",
+      "source": "https://kit.com/news/convertkit-rebrands-kit"
+    },
+    {
+      "section": "Differentiation",
+      "fact": "Positioned as an email-first OS with Creator Network recommendations, paid/commerce tools, and an extensible app store rather than a standalone newsletter tool.",
+      "source": "https://kit.com/news/convertkit-rebrands-kit"
+    },
+    {
+      "section": "Progress",
+      "fact": "Acquired SparkLoop to add Paid Recommendations; about page lists 89 team members across 72 cities as the company scales globally.",
+      "source": "https://kit.com/news/convertkit-acquires-sparkloop ; https://kit.com/about"
+    }
+  ],
+  "story_judgement": {
+    "story_core": true,
+    "proof_strength": true,
+    "social_relevance": true,
+    "decision": "publish",
+    "reason": "Rebrand press release, pricing, affiliate, and acquisition news provide verifiable milestones (creator count, ARR, free tier, M&A)."
+  }
+}

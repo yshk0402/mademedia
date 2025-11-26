@@ -1,0 +1,90 @@
+{
+"outline": [
+    {
+      "section": "Free Hook",
+      "points": [
+        "50K+ active customers and 200M+ learners reached; $3.7B+ earned through the platform.",
+        "Public on TSX (THNC) with Q3 2024 revenue $17.2M (+15% YoY) and $58.0M ARR.",
+        "Built for creator-owned learning commerce: courses, communities, memberships, downloads with integrated payments."
+      ]
+    },
+    {
+      "section": "Before & Pain",
+      "points": [
+        "Greg Smith taught an LSAT course but in-person delivery limited reach and brand control.",
+        "Creators lacked a way to scale globally without surrendering audience data or pricing power."
+      ]
+    },
+    {
+      "section": "Trigger & MVP",
+      "points": [
+        "Greg and brother Matt custom-built an online version; earnings quickly beat Greg’s law practice.",
+        "Miranda Lievers and Matt Payne joined to productize the platform for other course creators."
+      ]
+    },
+    {
+      "section": "Validation",
+      "points": [
+        "35K–50K+ customers; $3.7B earned; 200M+ learners impacted.",
+        "Financial traction: Q3 2024 revenue $17.2M, ARR $58.0M, commerce revenue +88% YoY."
+      ]
+    },
+    {
+      "section": "Differentiation",
+      "points": [
+        "Learning commerce stack: courses, communities, memberships, downloads, webinars, payments, analytics under one brand.",
+        "Thinkific Payments claims up to +31% average transaction size and 30-day free trial lowers adoption friction."
+      ]
+    },
+    {
+      "section": "Free Summary",
+      "points": [
+        "Pain→MVP→traction shows owned learning commerce can scale without marketplaces.",
+        "Paid part will cover setup steps, product mix, competitive fit, and ROI math."
+      ]
+    },
+    {
+      "section": "How to Use",
+      "points": [
+        "Use the 30-day free trial; choose Basic ($49), Start ($99), or Grow ($199) based on product mix and admin needs.",
+        "Launch at least one course plus a community or digital download; enable Thinkific Payments and analytics on day 1.",
+        "Design B2B/B2C tracks if relevant; Thinkific supports both with coupons, bundles, and memberships."
+      ]
+    },
+    {
+      "section": "Success Patterns",
+      "points": [
+        "Bundle course + community to improve retention; layer digital downloads or webinars for upsells.",
+        "Use Thinkific Payments order bumps/coupons to raise transaction size (platform cites up to +31%).",
+        "For B2B, use groups/spaces to segment clients and deliver onboarding at scale."
+      ]
+    },
+    {
+      "section": "Competition",
+      "points": [
+        "Teachable: strong for creator-owned courses; Thinkific wins when communities and B2B client segmentation matter.",
+        "Kajabi: powerful automation but higher price; Thinkific suits teams wanting payments + communities without heavy marketing suite.",
+        "Podia: lightweight and cheaper; Thinkific adds payments analytics and richer community tooling."
+      ]
+    },
+    {
+      "section": "ROI & Decision Framework",
+      "points": [
+        "Monthly pricing: $49/$99/$199; annual: $36/$74/$149; 30-day trial available.",
+        "Break-even examples: $100 product → 1–2 sales covers Basic; Start/Grow need 1–3 sales depending on ARPU.",
+        "Consider payment penetration (commerce revenue +88% YoY) as lever for margins."
+      ]
+    },
+    {
+      "section": "Paid Summary",
+      "points": [
+        "Checklist to launch in week 1 with payments and analytics wired in.",
+        "When to pick Thinkific over Teachable/Kajabi/Podia based on product mix, community needs, and budget."
+      ]
+    }
+  ],
+  "length_target": {
+    "free": 3000,
+    "paid": 3000
+  }
+}

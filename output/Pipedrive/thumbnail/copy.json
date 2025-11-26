@@ -1,0 +1,12 @@
+{
+  "concept": "営業トレーナーがカンバンボードに『次の活動』を入力し、案件カードが光る。重いCRMを捨て、行動ベースのパイプラインを再設計する瞬間。",
+  "design_instructions": {
+    "composition": "Left: founder/sales coach at a standing desk, hand hovering over a glowing kanban board labeled with pipeline stages; cards show checkmarks for next actions. Right-top corner kept minimal for logo space. Foreground includes a phone with the same pipeline view to hint mobile sync.",
+    "colors": ["#0B2B20", "#1B5E3B", "#2EA44F", "#F2F5F3", "#F4C95D"],
+    "lighting": "Cool monitor glow from the kanban board contrasted with warm desk light; subtle rim light to separate the figure from the background.",
+    "texture": "Clean, matte surfaces with a slight grain for depth.",
+    "emotion": "集中と行動へのドライブ",
+    "logo_placeholder": "Minimal negative space in the upper-right 18% with a dark green gradient; do not draw the logo."
+  },
+  "final_prompt": "Cinematic, high-detail scene of a sales coach standing at a desk, interacting with a glowing kanban-style CRM board. Cards display pipeline stages with next-action checkmarks; a smartphone shows the same pipeline to imply mobile sync. Cool green monitor glow mixes with warm desk light, slight rim light around the figure. Clean matte textures with faint grain. Keep the upper-right 18% as empty dark-green gradient space for the official logo (no logo drawn). 16:9, sharp focus."
+}

@@ -1,0 +1,46 @@
+{
+  "narrative": [
+    {
+      "section": "Before",
+      "fact": "Tyler Denk, Benjamin Hargett, and Jake Hurd built the high-growth Morning Brew newsletter stack before founding beehiiv in New York.",
+      "source": "https://techcrunch.com/2023/06/21/beehiiv-a-newsletter-platform-gets-12-5m-in-its-inbox/"
+    },
+    {
+      "section": "Pain",
+      "fact": "They believed existing creator tools underused the owned potential of email, which remained the most lucrative and controllable channel compared with social media.",
+      "source": "https://techcrunch.com/2023/06/21/beehiiv-a-newsletter-platform-gets-12-5m-in-its-inbox/"
+    },
+    {
+      "section": "Trigger",
+      "fact": "After leaving Morning Brew, the trio launched beehiiv in October 2021 to productize the growth and monetization stack they had built internally.",
+      "source": "https://techcrunch.com/2023/06/21/beehiiv-a-newsletter-platform-gets-12-5m-in-its-inbox/"
+    },
+    {
+      "section": "MVP",
+      "fact": "Early versions packaged referral programs, paywalls, and monetization tooling into a newsletter platform with tiered pricing (free, $42/mo, $84/mo) to attract creators seeking growth features.",
+      "source": "https://techcrunch.com/2023/06/21/beehiiv-a-newsletter-platform-gets-12-5m-in-its-inbox/"
+    },
+    {
+      "section": "Validation",
+      "fact": "By June 2023 beehiiv hosted 7,500 active newsletters with 35M unique readers and 350M monthly impressions; by April 2024 it scaled to about 20,000 newsletters sending 1B emails per month and customers earning $1.2M collectively each month.",
+      "source": "https://techcrunch.com/2023/06/21/beehiiv-a-newsletter-platform-gets-12-5m-in-its-inbox/; https://techcrunch.com/2024/04/30/beehiiv-newsletters/"
+    },
+    {
+      "section": "Differentiation",
+      "fact": "beehiiv bundles growth tools such as referral programs, boosts, and a programmatic ad network plus migration APIs, aiming to make switching from other ESPs easy while keeping unlimited email sends across tiers.",
+      "source": "https://techcrunch.com/2024/04/30/beehiiv-newsletters/"
+    },
+    {
+      "section": "Progress",
+      "fact": "Funding rounds: $12.5M Series A led by Lightspeed (Jun 2023) and $33M Series B led by NEA with Sapphire Sport and Lightspeed (Apr 2024), totaling $46.5M; customer logos include Boston Globe Media, Brex, and Arnold Schwarzenegger’s newsletter.",
+      "source": "https://techcrunch.com/2024/04/30/beehiiv-newsletters/"
+    }
+  ],
+  "story_judgement": {
+    "story_core": true,
+    "proof_strength": true,
+    "social_relevance": true,
+    "decision": "publish",
+    "reason": "Documented founder background and launch timing, quantified growth (20k newsletters, 1B monthly emails), revenue claims, and sizable market context for email justify article viability."
+  }
+}

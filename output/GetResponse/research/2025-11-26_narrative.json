@@ -1,0 +1,46 @@
+{
+  "narrative": [
+    {
+      "section": "Before",
+      "fact": "Polish founder Simon Grabowski built his first autoresponder in 1997 and started GetResponse to provide simple email tools from a small city in Poland.",
+      "source": "https://www.getresponse.com/about"
+    },
+    {
+      "section": "Pain",
+      "fact": "The mission from the start was to tailor easy, affordable marketing tools for businesses that lacked straightforward email automation options.",
+      "source": "https://www.getresponse.com/about"
+    },
+    {
+      "section": "Trigger",
+      "fact": "Grabowski registered the getresponse.com domain in 1998 to productize his autoresponder and launch the service publicly.",
+      "source": "https://www.getresponse.com/about"
+    },
+    {
+      "section": "MVP",
+      "fact": "The early product centered on autoresponders and simple newsletter sends, forming the base for today’s automation, landing pages, and webinars.",
+      "source": "https://www.getresponse.com/features"
+    },
+    {
+      "section": "Validation",
+      "fact": "GetResponse reached 300,000 customers by 2013 and, per a 2025 independent review, now serves more than 350,000 customers in 183 countries.",
+      "source": "https://www.getresponse.com/about; https://www.emailtooltester.com/en/reviews/getresponse/"
+    },
+    {
+      "section": "Differentiation",
+      "fact": "Unlike email-only tools, GetResponse bundles automation, landing pages/websites, and built-in webinars within one platform.",
+      "source": "https://www.getresponse.com/features"
+    },
+    {
+      "section": "Progress",
+      "fact": "The lineup now spans a free plan (2,500 sends) and paid tiers from $19/month Starter to $69/month Creator, plus enterprise Max with custom pricing around $1,099/month.",
+      "source": "https://www.stylefactoryproductions.com/blog/getresponse-pricing"
+    }
+  ],
+  "story_judgement": {
+    "story_core": true,
+    "proof_strength": true,
+    "social_relevance": true,
+    "decision": "publish",
+    "reason": "Founder-led origin, measurable adoption (350k+ customers across 183 countries), and a growing email marketing market support article viability."
+  }
+}

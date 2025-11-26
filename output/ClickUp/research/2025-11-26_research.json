@@ -1,0 +1,108 @@
+{
+  "service": "ClickUp",
+  "company": "ClickUp",
+  "founders": [
+    {
+      "name": "Zeb Evans",
+      "bio_summary": "共同創業者兼CEO。2017年にAlex YurkowskiとClickUpを立ち上げ、サンディエゴに本社を置くプロジェクト管理SaaSを率いる。",
+      "source": "https://en.wikipedia.org/wiki/ClickUp"
+    },
+    {
+      "name": "Alex Yurkowski",
+      "bio_summary": "共同創業者兼CTO。Zeb Evansと2017年にClickUpを創業し、プロダクト開発を統括。",
+      "source": "https://en.wikipedia.org/wiki/ClickUp"
+    }
+  ],
+  "founded_year": "2017",
+  "hq": "San Diego, California, U.S.",
+  "category": "Project management / productivity platform",
+  "product_summary": "タスク、チャット、ホワイトボード、スプレッドシート、ドキュメントを単一ワークスペースで提供するオールインワン型。",
+  "pricing": "フリープランあり。Unlimitedは$7/ユーザー/月、Businessは$12/ユーザー/月（Tech.coの価格表）。",
+  "core_problem": {
+    "statement": "生産性が多くの分断されたツールに散らばり時間が失われている問題を、1つのアプリに統合して解決し週に1日分の時間を返すことを目指した。",
+    "source": "https://clickup.com/about"
+  },
+  "kpi": [
+    {
+      "metric": "利用チーム数",
+      "value": "2,000,000チーム",
+      "year": "2025",
+      "source": "https://clickup.com/about"
+    },
+    {
+      "metric": "Series C資金調達",
+      "value": "$400M、評価額$4B",
+      "year": "2021",
+      "source": "https://en.wikipedia.org/wiki/ClickUp"
+    },
+    {
+      "metric": "Series B資金調達",
+      "value": "$100M",
+      "year": "2020",
+      "source": "https://en.wikipedia.org/wiki/ClickUp"
+    },
+    {
+      "metric": "EMEA従業員数",
+      "value": "約200名（アイルランド含む欧州全体）",
+      "year": "2023",
+      "source": "https://www.irishtimes.com/business/2023/03/08/clickup-opens-new-dublin-office-as-it-eyes-further-expansion/"
+    }
+  ],
+  "competition": [
+    {
+      "name": "monday.com",
+      "url": "https://monday.com",
+      "reason_compared": "同じくプロジェクト管理とワークOSを提供する主要代替。"
+    },
+    {
+      "name": "Asana",
+      "url": "https://asana.com",
+      "reason_compared": "タスク・プロジェクト管理で同じ購買検討枠に入る。"
+    }
+  ],
+  "user_validation": [
+    {
+      "type": "customer_review",
+      "detail": "Trustpilotで3.6/5（420件のレビュー、平均評価）。",
+      "source": "https://www.trustpilot.com/review/clickup.com"
+    }
+  ],
+  "market_background": {
+    "insight": "2023年にEMEA拡大のためダブリンに新オフィスを開設し、欧州で約200名体制へ拡大。McDonald’sやNetflixなど大手も顧客として提示。",
+    "source": "https://www.irishtimes.com/business/2023/03/08/clickup-opens-new-dublin-office-as-it-eyes-further-expansion/"
+  },
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/ClickUp",
+      "credibility": "medium",
+      "note": "創業年、創業者、資金調達、機能構成を確認"
+    },
+    {
+      "url": "https://clickup.com/about",
+      "credibility": "low",
+      "note": "公式ミッション、利用チーム数、課題認識"
+    },
+    {
+      "url": "https://tech.co/project-management-software/clickup-review",
+      "credibility": "medium",
+      "note": "価格プランの実測と機能レビュー"
+    },
+    {
+      "url": "https://www.trustpilot.com/review/clickup.com",
+      "credibility": "medium",
+      "note": "顧客レビューの平均スコアと件数"
+    },
+    {
+      "url": "https://www.irishtimes.com/business/2023/03/08/clickup-opens-new-dublin-office-as-it-eyes-further-expansion/",
+      "credibility": "high",
+      "note": "EMEAオフィス開設、従業員数、顧客例"
+    }
+  ],
+  "feasibility": {
+    "story_core": true,
+    "proof_strength": true,
+    "social_relevance": true,
+    "decision": "publish",
+    "reason": "創業動機・利用規模・資金調達・顧客例が一次情報と報道で確認でき、事実ベースの構成が可能。"
+  }
+}

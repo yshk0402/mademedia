@@ -1,0 +1,114 @@
+{
+  "service": "Teachable",
+  "company": "Teachable, Inc.",
+  "founders": [
+    {
+      "name": "Ankur Nagpal",
+      "bio_summary": "Built the first version in 2013 to sell his own marketing courses and grew Fedora into Teachable as the core founder.",
+      "source": "https://www.linkedin.com/pulse/fedora-now-teachable-how-side-project-grew-up-become-ankur-nagpal"
+    },
+    {
+      "name": "Conrad Wadowski",
+      "bio_summary": "Early customer and advisor who joined as a full-time co-founder during the 2014 rebuild of Teachable (then Fedora).",
+      "source": "https://www.linkedin.com/pulse/fedora-now-teachable-how-side-project-grew-up-become-ankur-nagpal"
+    }
+  ],
+  "founded_year": "2014",
+  "hq": "New York, New York, U.S.",
+  "category": "Creator-led online course and digital product platform",
+  "product_summary": "Platform for creators to build and sell courses, coaching, digital downloads, memberships, and community spaces with integrated payments, analytics, AI tools, and mobile learning support.",
+  "pricing": "Black Friday 2025 promo: Builder $29/mo for 3 months then $89/mo; Growth $63/mo then $189/mo; Advanced $133/mo then $399/mo. Annual billing: Builder $69/mo, Growth $139/mo, Advanced $309/mo (billed yearly). 7-day free trial available.",
+  "core_problem": {
+    "statement": "Existing course platforms limited ownership and customization; Teachable was created so creators could fully own content, branding, and customer relationships.",
+    "source": "https://teachable.com/about"
+  },
+  "kpi": [
+    {
+      "metric": "Creators (Teachable + Hotmart)",
+      "value": "200K+ creators",
+      "year": "2023",
+      "source": "https://teachable.com/about"
+    },
+    {
+      "metric": "Products sold by Teachable creators",
+      "value": "30M+ products",
+      "year": "2023",
+      "source": "https://teachable.com/about"
+    },
+    {
+      "metric": "Consumer reach (Teachable + Hotmart)",
+      "value": "21M+ consumers",
+      "year": "2023",
+      "source": "https://teachable.com/about"
+    },
+    {
+      "metric": "Creator earnings (combined with Hotmart)",
+      "value": "$10B+ earned",
+      "year": "2023",
+      "source": "https://teachable.com/about"
+    },
+    {
+      "metric": "Company size",
+      "value": "51-200 employees",
+      "year": "2025",
+      "source": "https://www.linkedin.com/company/teachable"
+    }
+  ],
+  "competition": [
+    {
+      "name": "Thinkific",
+      "url": "https://www.thinkific.com",
+      "reason_compared": "Direct competitor providing an online course platform for creators."
+    },
+    {
+      "name": "Kajabi",
+      "url": "https://kajabi.com",
+      "reason_compared": "All-in-one digital product and membership platform used by similar creator audiences."
+    },
+    {
+      "name": "Podia",
+      "url": "https://www.podia.com",
+      "reason_compared": "Another creator-focused platform for courses, downloads, and memberships."
+    }
+  ],
+  "user_validation": [
+    {
+      "type": "customer_review",
+      "detail": "150,000+ creators and businesses trust Teachable (company disclosure).",
+      "source": "https://www.linkedin.com/company/teachable"
+    }
+  ],
+  "market_background": {
+    "insight": "Company-reported scale shows creator-led education serving 200K+ creators and 21M+ consumers across Teachable and Hotmart, indicating sizable demand for owned course platforms.",
+    "source": "https://teachable.com/about"
+  },
+  "sources": [
+    {
+      "url": "https://teachable.com/about",
+      "credibility": "medium",
+      "note": "Official about page with founding story and metrics (200K+ creators, $10B+ earnings, 30M+ products sold)."
+    },
+    {
+      "url": "https://www.linkedin.com/company/teachable",
+      "credibility": "medium",
+      "note": "Public company profile listing founded year (2014), HQ New York, company size 51-200, and 150k+ creator count."
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/fedora-now-teachable-how-side-project-grew-up-become-ankur-nagpal",
+      "credibility": "medium",
+      "note": "Founder Ankur Nagpal recounts building the first product in 2013, bringing on Conrad Wadowski, and rebranding Fedora to Teachable."
+    },
+    {
+      "url": "https://teachable.com/pricing",
+      "credibility": "medium",
+      "note": "Official pricing page showing Builder/Growth/Advanced tiers, promo rates, and 7-day trial."
+    }
+  ],
+  "feasibility": {
+    "story_core": true,
+    "proof_strength": true,
+    "social_relevance": true,
+    "decision": "publish",
+    "reason": "Founder narrative, co-founder detail, official metrics on creator/user scale, and current pricing are available from primary sources."
+  }
+}
